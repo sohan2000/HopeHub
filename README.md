@@ -31,7 +31,7 @@ Report an Incident
 
 - Users earn HopePoints for verified safety reports.
 
-### SMS Interface for Digitally Illiterate Users
+### SMS Interface for Digitally Challenged Users
 
 Menu-driven text-based navigation:
 
