@@ -3,9 +3,7 @@
 SJHacks, **Track:** Homelessness, **Members:** Jun, Meghna, Shreya, Sohan
 ## Overview
 
-HopeHub is a mobile-first platform designed to empower digitally underserved and homeless communities by providing them simple, tangible ways to earn, track, and redeem HopePoints. The platform turns everyday positive actions — like completing microjobs, reporting safety incidents, or attending trainings — into HopePoints that can be redeemed for essential services such as food coupons, transportation tickets, and hygiene kits.
-
-HopeHub is built with accessibility at its core: offering a website, a simple SMS-based interaction model for users without smartphones, and an admin dashboard for monitoring engagement and platform performance.
+HopeHub is a mobile-first platform designed to empower digitally underserved and homeless communities by providing accessible, practical opportunities to earn, track, and redeem HopePoints. Through everyday positive actions—such as completing microjobs, reporting safety incidents, or participating in trainings—users accumulate HopePoints that can be exchanged for essential services including food coupons, transportation tickets, and hygiene kits. Built with accessibility as a core principle, HopeHub offers a web interface, a streamlined SMS-based interaction model for users without smartphones, and an administrative dashboard for monitoring engagement and platform performance.
 
 ## Key Features
 
