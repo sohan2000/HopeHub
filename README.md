@@ -106,7 +106,7 @@ Task Completion Analytics
 
 ## Project info
 
-**URL**: [https://lovable.dev/projects/427dcbe5-e0f0-4b85-be24-cccf68483879](https://hopehub-welcome-portal-34.lovable.app/auth)
+**URL**: [https://lovable.dev/projects/427dcbe5-e0f0-4b85-be24-cccf68483879](https://lovable.dev/projects/427dcbe5-e0f0-4b85-be24-cccf68483879)
 
 ## What technologies are used for this project?
 
